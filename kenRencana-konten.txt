@@ -1,5 +1,9 @@
 Rencana Konten Youtube Ken
 -----------------------------------------------------------
+
 Buat Logo yang presisi buat glow after effect
+* The logo cannot contain a complex thing, it makes the glow effect being weird
+
 Buat Video Opening dari after Effect dengan resolusi 1080p
+* WIth Texture & simple glowing effect
 
